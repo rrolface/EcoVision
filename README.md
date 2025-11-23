@@ -35,15 +35,19 @@ Al ejecutar la aplicación verás:
 - Python 3.8+
 - pip actualizado
 - Windows / Linux
+  
+## 🟦Autores
+
+Santiago Osorio
+Kevin Aristizabal
+Julian Montoya
 
 ## 📥Clonar el repositorio
 ```bash
 git clone https://github.com/tu_usuario/EcoVision.git
 
 
-🟦Autores
 
-Santiago Osorio
-Kevin Aristizabal
-Julian Montoya
+
+
 
