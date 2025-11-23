@@ -1,0 +1,18 @@
+{
+    "fecha_reporte": "2025-11-23 16:55:08",
+    "ubicacion": {
+        "ciudad": "Cali",
+        "barrio": "EL Guabal",
+        "lugar_especifico": "Parque cerca a la Carrera 39, al lado del D1"
+    },
+    "analisis_ia": {
+        "total_objetos": 4,
+        "detalle": [
+            "Envoltura Plástica",
+            "Botella Plástica",
+            "Envoltura Plástica",
+            "Envoltura Plástica"
+        ]
+    },
+    "estado_alerta": "🟡 ALERTA AMBIENTAL"
+}

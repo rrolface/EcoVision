@@ -1,0 +1,20 @@
+{
+    "fecha_reporte": "2025-11-23 17:03:57",
+    "ubicacion": {
+        "ciudad": "Palmira",
+        "barrio": "La cocha",
+        "lugar_especifico": "parque la cocha"
+    },
+    "analisis_ia": {
+        "total_objetos": 6,
+        "detalle": [
+            "Envoltura Plástica",
+            "Botella Plástica",
+            "Botella de Vidrio",
+            "Botella Plástica",
+            "Botella de Vidrio",
+            "Botella Plástica"
+        ]
+    },
+    "estado_alerta": "🟡 ALERTA AMBIENTAL"
+}
