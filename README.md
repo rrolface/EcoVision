@@ -42,9 +42,14 @@ Santiago Osorio
 Kevin Aristizabal
 Julian Montoya
 
+##🟦Enlace a DataSet utilizado
+https://universe.roboflow.com/taco-t7kkz/taco-dataset-ql1ng
+
 ## 📥Clonar el repositorio
 ```bash
 git clone https://github.com/tu_usuario/EcoVision.git
+
+
 
 
 
