@@ -14,7 +14,7 @@ Al ejecutar la aplicación verás:
 - **Botón “Cargar imagen”** → Permite seleccionar una imagen desde el PC.  
 - **Botón “Detectar residuos”** → Ejecuta el modelo sobre la imagen cargada.  
 - **Área de visualización** → Muestra imagen original y procesada.  
-- **Panel de resultados** → Indica clase detectada, confianza y segmentación.  
+- **Panel de resultados** → Indica clase detectada, segmentación y nivel de alerta sanitaria para crear campaña anti residuos.
 
 ## 🧪Cómo analizar una imagen
 
